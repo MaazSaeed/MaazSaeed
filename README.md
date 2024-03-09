@@ -1,10 +1,13 @@
 <!--
 **MaazSaeed/MaazSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
+-->
 
 🔭 I’m currently working on building a fully featured OOP language.
 🌱 I’m currently learning Deep Learning, System Programming and Game Programming.
+<!--
 -  👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
