@@ -22,4 +22,4 @@ Hello, I am Maaz, a senior year student of Computer Engineering, passionate abou
 -->
 ![CW stats](https://www.codewars.com/users/maaze_e/badges/large)
 
-![[Codewars](https://www.codewars.com/users/maaze_e)](https://github.r2v.ch/codewars?user=maaze_e&name=true&top_languages=true&stroke=%23b362ff&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=maaze_e&name=true&top_languages=true&stroke=%23b362ff&theme=gradient)
