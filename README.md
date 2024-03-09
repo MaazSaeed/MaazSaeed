@@ -9,7 +9,7 @@ Hello, I am Maaz, a senior year student of Computer Engineering, passionate abou
 
 🔭 I’m currently working on building a fully featured OOP language.
 
-🌱 I’m currently learning Deep Learning, Systems Programming and Game Programming.
+🌱 I’m currently learning Deep Learning, Systems and Game Programming.
 
 ⚡ In my spare time, I either play video games or solve katas on Codewars (:
 
