@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![CW stats](https://www.codewars.com/users/maaze_e/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=maaze_e&cache_control=86400)
