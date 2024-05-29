@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-Hello, I am Maaz, a senior year student of Computer Engineering, passionate about Software Development mainly Video Games, Compilers, Operating Systems and Deep Learning.
+Hello, I am Maaz, a senior year student of Computer Engineering, passionate about Software Development mainly Video Games, Programming Languages Design, Operating Systems and Deep Learning.
 
 🔭 I’m currently working on building a fully featured OOP language
 
