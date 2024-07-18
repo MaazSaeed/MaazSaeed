@@ -11,7 +11,7 @@ Hello, I am Maaz, a senior year student of Computer Engineering, passionate abou
 
 🌱 I’m currently learning Deep Learning, Systems Programming and Game Programming
 
-⚡ In my spare time I either play video games or solve katas on Codewars; rank 1 kyu (equivalent to Proficient) having trained in 9 different languages of various paradigms (:
+⚡ In my spare time I either play video games or solve katas on Codewars; rank 1 kyu (equivalent to Proficient) having trained in 10 different languages of various paradigms (:
 
 <!--
 -  👯 I’m looking to collaborate on 
