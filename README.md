@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-Hello, I'm Maaz, a senior Computer Engineering student with a passion for software development, particularly in _Game development, Programming languages development, Operating systems, and Deep learning_. In my spare time, I enjoy playing video games and solving katas on Codewars, where I’m ranked 1 kyu (Proficient). I have experience in over ten programming languages of various paradigms, mainly _JavaScript, C, Haskell, C#, Racket, C++, Lua, and Julia_.
+Hello, I'm Maaz, a senior Computer Engineering student with a passion for software development, particularly in _Game development, Programming languages development, Operating systems, and Deep learning_. In my spare time, I enjoy playing video games and solving katas on Codewars, where I’m ranked 1 kyu (Proficient). I have experience in over ten programming languages of various paradigms, mainly _JavaScript, C, Haskell, C#, Scheme, C++, Lua, and Julia_.
 
 
 <!--
