@@ -20,3 +20,6 @@ Hello, I'm Maaz, a senior Computer Engineering student with a passion for softwa
 
 
 [![Maaz's stats](https://github-readme-stats.vercel.app/api?username=MaazSaeed)](https://github.com/MaazSaeed/github-readme-stats)
+
+
+![Languags](https://github-readme-stats.vercel.app/api/top-langs/?username=MaazSaeed&langs_count=10)
