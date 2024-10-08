@@ -13,5 +13,6 @@ Hiya! I'm Maaz, a Computer Engineering student passionate about software develop
 - 
 -->
 ![CW stats](https://www.codewars.com/users/maaze_e/badges/large)
+
 ![Codewars](https://github.r2v.ch/codewars?user=maaze_e&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_dark)
 
