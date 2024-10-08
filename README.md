@@ -17,7 +17,6 @@ Hello, I'm Maaz, a senior Computer Engineering student with a passion for softwa
 -->
 ![CW stats](https://www.codewars.com/users/maaze_e/badges/large)
 
-![Codewars](https://github.r2v.ch/codewars?user=maaze_e&name=true&top_languages=true&hide_clan=true&stroke=%23b362ff&theme=gradient)
 
 
 [![Maaz's stats](https://github-readme-stats.vercel.app/api?username=MaazSaeed)](https://github.com/MaazSaeed/github-readme-stats)
